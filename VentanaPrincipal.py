@@ -1,5 +1,6 @@
 '''
 Autores : Karen Manuela Lara Grandas - Diego Mauricio Valencia Hernandez
+Univesidad del Quindio
 '''
 
 import math
